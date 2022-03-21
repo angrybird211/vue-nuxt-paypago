@@ -1,0 +1,44 @@
+
+
+{
+    //"message": "Hello!",
+    "account": "Accounts"
+    /*
+    "Deals": "Deals",
+    "Product": "Product",
+    "Description": "Description",
+    "price": "Prices",
+    "wishlist": "wishlist",
+    "Reviews": "Reviews",
+    "Categories": "Categories",
+    "Color": "Color",
+    "Featured": "Featured",
+    "Address": "Address",
+    "Phone": "Phone",
+    "About-us": "About-us",
+    "Email": "Email"
+    */
+}
+
+
+{
+    //"message": "Olas!",
+    "account": "conta"
+   /* "Deals": "Deals",
+    "Product": "Produto",
+    "Description": "Descrição",
+    "price": "Preço",
+    "wishlist": "Favoritos",
+    "Reviews": "Reviews",
+    "Categories": "Categorias",
+    "Color": "cor",
+    "Featured": "Semelhantes",
+    "Address": "Endereço",
+    "Phone": "Telephone",
+    "About-us": "Semelhantes",
+    "Email": "Email"
+    */
+}
+    
+  
+
